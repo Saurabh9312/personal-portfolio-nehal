@@ -22,9 +22,9 @@ const Education = () => {
         {
             id: 3,
             level: "10th Standard (SSC)",
-            institution: "St. Xavier's High School",
+            institution: "Bharat Vidyalaya Navargaon",
             year: "2021",
-            grade: "92%",
+            grade: "79.60%",
             icon: <Award className="text-blue-500" size={24} />
         }
     ];
